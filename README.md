@@ -1,1 +1,1 @@
-# birdie-bot
+# birdie-bet
